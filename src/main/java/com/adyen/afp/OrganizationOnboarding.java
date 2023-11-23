@@ -14,6 +14,9 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.util.UUID;
 
+/**
+ * Onboarding an organization
+ */
 public class OrganizationOnboarding {
 
     private final static Logger LOGGER = LoggerFactory.getLogger(OrganizationOnboarding.class);

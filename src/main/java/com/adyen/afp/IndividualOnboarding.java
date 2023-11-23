@@ -15,6 +15,9 @@ import java.util.UUID;
 
 import java.io.IOException;
 
+/**
+ * Onboarding an individual
+ */
 public class IndividualOnboarding {
 
     private final static Logger LOGGER = LoggerFactory.getLogger(IndividualOnboarding.class);
