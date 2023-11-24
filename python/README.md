@@ -1,4 +1,4 @@
-# Using the Adyen Pyhton library
+# Using the Adyen Python library
 
 Collection of working code snippets that showcases the usage of the Adyen's API Library for Python ([GitHub](https://github.com/Adyen/adyen-python-api-library)).
 
