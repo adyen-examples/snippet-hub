@@ -44,3 +44,7 @@ terraform.tfvars
 
 ### Visual Studio ###
 .vs
+
+### Python
+.env
+venv
