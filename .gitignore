@@ -1,9 +1,7 @@
 HELP.md
 .gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
-!java/src/main/**/build/
-!java/src/test/**/build/
+target/
 application-dev.properties
 
 .DS_Store
