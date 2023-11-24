@@ -2,7 +2,7 @@
 All the code snippets you need to integrate the Adyen API Libraries.
 
 Learn here how to use the Adyen Libraries to implement your integration and workflows. 
-Browse the collection of working code snippets for defining objects, invoking methods, processing output, and more. 
+Browse the collection of working code snippets for defining objects, invoking methods, processing output, and more.  
 Explore, run and get started quickly.
 
 * [Java Library](./java)
