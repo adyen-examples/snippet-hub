@@ -6,6 +6,7 @@ Browse the collection of working code snippets for defining objects, invoking me
 Explore, run and get started quickly.
 
 * [Java Library](./java)
+* [Python library](./python)
 
 ## Resources
 
