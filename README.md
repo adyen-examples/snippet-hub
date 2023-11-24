@@ -1,27 +1,22 @@
 # snippet-hub
-All the code snippets you need to integrate the Adyen API Libraries
+All the code snippets you need to integrate the Adyen API Libraries.
 
-Learn here how to use the Adyen Libraries to implement your integration and workflows:
-* [AfP Individual Onboarding](./src/main/java/com/adyen/afp/IndividualOnboarding.java)
-* [AfP Organization Onboarding](./src/main/java/com/adyen/afp/OrganizationOnboarding.java)
+Learn here how to use the Adyen Libraries to implement your integration and workflows. 
+Browse the collection of working code snippets for defining objects, invoking methods, processing output, and more. 
+Explore, run and get started quickly.
 
-## Learn
-Explore the workflows and how to use the Java Adyen Library
+* [Java Library](./java)
 
-## Run
-Define your API keys and run the snippets
+## Resources
 
-```shell
-    export LEM_API_KEY=your API Key to access LEM API
-    export BCL_API_KEY=your API Key to access Configuration API
-```
+- [adyen-examples](https://github.com/adyen-examples): all example integrations and use cases
+- [Adyen Developer Website](https://developers.adyen.com/): all developer resources in one page 💚
 
 ## Contributing
 
 We commit all our new features directly into our GitHub repository. Feel free to request or suggest new features or code changes yourself as well!
 
 Find out more in our [contributing](https://github.com/adyen-examples/.github/blob/main/CONTRIBUTING.md) guidelines.
-
 
 ## License
 

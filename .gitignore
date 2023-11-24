@@ -2,8 +2,8 @@ HELP.md
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
+!java/src/main/**/build/
+!java/src/test/**/build/
 application-dev.properties
 
 .DS_Store
@@ -23,8 +23,8 @@ application-dev.properties
 *.iml
 *.ipr
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!java/src/main/**/out/
+!java/src/test/**/out/
 
 ### NetBeans ###
 /nbproject/private/
