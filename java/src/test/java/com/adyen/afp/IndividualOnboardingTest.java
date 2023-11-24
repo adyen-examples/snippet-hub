@@ -1,6 +1,5 @@
 package com.adyen.afp;
 
-import com.adyen.afp.IndividualOnboarding;
 import com.adyen.model.legalentitymanagement.LegalEntity;
 import com.adyen.service.exception.ApiException;
 import org.junit.jupiter.api.Test;
