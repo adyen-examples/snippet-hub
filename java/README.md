@@ -3,8 +3,8 @@
 Collection of working code snippets that showcases the usage of the Adyen's API Library for Java ([GitHub](https://github.com/Adyen/adyen-java-api-library)).
 
 **AfP**
-* [AfP Individual Onboarding](java/src/main/java/com/adyen/afp/IndividualOnboarding.java)
-* [AfP Organization Onboarding](java/src/main/java/com/adyen/afp/OrganizationOnboarding.java)
+* [AfP Individual Onboarding](src/main/java/com/adyen/afp/IndividualOnboarding.java)
+* [AfP Organization Onboarding](/src/main/java/com/adyen/afp/OrganizationOnboarding.java)
 
 ## Learn
 Explore the collection of code snippets, understand how the library is setup and used.
