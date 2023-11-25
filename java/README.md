@@ -4,7 +4,7 @@ Collection of working code snippets that showcases the usage of the Adyen's API 
 
 **AfP**
 * [AfP Individual Onboarding](src/main/java/com/adyen/afp/IndividualOnboarding.java)
-* [AfP Organization Onboarding](/src/main/java/com/adyen/afp/OrganizationOnboarding.java)
+* [AfP Organization Onboarding](src/main/java/com/adyen/afp/OrganizationOnboarding.java)
 
 ## Learn
 Explore the collection of code snippets, understand how the library is setup and used.
