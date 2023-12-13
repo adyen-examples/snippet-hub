@@ -6,6 +6,8 @@ Collection of working code snippets that showcases the usage of the Adyen's API 
 * [Individual Onboarding](src/main/java/com/adyen/afp/IndividualOnboarding.java)
 * [Organization Onboarding](src/main/java/com/adyen/afp/OrganizationOnboarding.java)
 * [Track Transactions](src/main/java/com/adyen/afp/Transactions.java)
+* [Using LegalEntityManagent API](src/main/java/com/adyen/afp/LegalEntityManagement.java)
+* [Manage Transfer Instruments](src/main/java/com/adyen/afp/TransferInstruments.java)
 
 ## Learn
 Explore the collection of code snippets, understand how the library is setup and used.
