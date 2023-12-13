@@ -122,6 +122,7 @@ public class Transactions {
         return key;
     }
 
+    // get Balance Platform code
     private String getBalancePlatform() {
         String id = System.getenv("BALANCE_PLATFORM");
 
