@@ -32,12 +32,12 @@ public class IndividualOnboarding {
     private TermsOfServiceApi termsOfServiceApi;
 
     public IndividualOnboarding() {
-        legalEntitiesApi = new LegalEntitiesApi(getLEMApiClient());
-        accountHoldersApi = new AccountHoldersApi(getBCLApiClient());
-        documentsApi = new DocumentsApi(getLEMApiClient());
-        transferInstrumentsApi = new TransferInstrumentsApi(getLEMApiClient());
-        businessLinesApi = new BusinessLinesApi(getLEMApiClient());
-        termsOfServiceApi = new TermsOfServiceApi(getLEMApiClient());
+        this.legalEntitiesApi = new LegalEntitiesApi(getLEMApiClient());
+        this.accountHoldersApi = new AccountHoldersApi(getBCLApiClient());
+        this.documentsApi = new DocumentsApi(getLEMApiClient());
+        this.transferInstrumentsApi = new TransferInstrumentsApi(getLEMApiClient());
+        this.businessLinesApi = new BusinessLinesApi(getLEMApiClient());
+        this.termsOfServiceApi = new TermsOfServiceApi(getLEMApiClient());
     }
 
     // Perform the steps involved in the onboarding of an individual
